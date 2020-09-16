@@ -3,7 +3,7 @@
 - [Vídeo base](https://www.youtube.com/watch?v=wjtoxssa5L4)
 - [Log da luta](https://www.warcraftlogs.com/reports/VN8fyHZdQXM39r2c#fight=29&type=summary)
 
-## Melhorias a serem feitas':'
+## Melhorias a serem feitas:
 
 - precisa setar grupos de imune
 - precisa setar CDs de heal
@@ -11,7 +11,7 @@
 - precisa setar orde dos necks dos tanks no angush 2
 - grito do nouxer no angush 3?
 
-## Começando'...'
+## Começando...
 
 - LUST NO PULL (AQUI OU ASSIM QUE TERMINA O SEGUNDO PSYCHO?)
 - Mata os tentaculos e desvia dos sangues quando eles morrerem
@@ -63,7 +63,7 @@ Antes do Psychus 2, um Warlock (que estará no grupo do Psychus 2) precisa coloc
 
 ![Mapa ANGUSH](https://github.com/yuripiratello/wow-raid-plan/raw/master/bfa/nyalotha/img/nzoth_first_p2.png "ANGUSH MAPA")
 
-## ANGUSH 1':'
+## ANGUSH 1:
 
 - Vai pra longe do boss com o angush
 - dropa a poça e usa skill de movimentação pra sair delas e ir pra direita SEM PISAR na poça dos amiguinhos!
@@ -71,7 +71,7 @@ Antes do Psychus 2, um Warlock (que estará no grupo do Psychus 2) precisa coloc
 - Mata os adds
 - HEAL pesado na skill de onda do BOSS
 
-## ANGUSH 2':'
+## ANGUSH 2:
 
 - Proximo angush volta pra frente de onde dropou as primeiras poças
 - dropa, cd de velocidade, vai pra DIREITA e stacka PROXIMO DO BOSS
@@ -80,19 +80,19 @@ Antes do Psychus 2, um Warlock (que estará no grupo do Psychus 2) precisa coloc
 *ANTENÇÃO*
 SE o grasp puxar pra PERTO, TEM QUE COLOCAR PORTAL DE LOCK pra sair de perto do BOSS ANTES DO GRASP
 
-## ANGUSH 3':' E IMUNES 1':'
+## ANGUSH 3: E IMUNES 1:
 
 - Dropa o terceiro anguish no melee do boss
 - vai pra direita e seta os primeiro 5 imunes pro SOAK
 
-## ANGUSH 4':'
+## ANGUSH 4:
 
 - Depois solta o quarto angushi pra trás do terceiro
 
 *ATENÇÃO*
 RAIO DOS OLHOS (RAIO ULTRA VIOLENTO)
 
-## IMUNES 2':'
+## IMUNES 2:
 
 - Foca o boss dando cleave nos adds
 - Segundo grupo de IMUNE DAR SOAK (MESMO COM PARANOIA)
@@ -135,25 +135,25 @@ FIM SALA SECRETA
 
 ## FINAL
 
-### VERSAO COM DPS':'
+### VERSAO COM DPS:
 
 - BL QUANDO TODO MUNDO CHEGAR FOCA O BOSS (CD DPS E HEAL É PRA ESTAR TUDO UP AQUI)
 - Vamos perder toda a sanidade e consecutivamente bater mais no boss
 
-### VERSAO COM POUCO DPS':'
+### VERSAO COM POUCO DPS:
 
 ![MAPA DO ANGUSH PÓS SALA SECRETA](https://github.com/yuripiratello/wow-raid-plan/raw/master/bfa/nyalotha/img/nzoth_second_p2.png "ANGUSH MAPA PÓS SALA SECRETA")
 
-## IMUNE 3':'
+## IMUNE 3:
 
 - Seta os 5 ultimios soaks com imunity pros adds e NAO BATE NELES
 
-## ANGUSH 5':'
+## ANGUSH 5:
 
 - Faz o angushi no melee range e vai pra direita!
 - BL E CUIDADO COM OS OLHOS!!!!!!!
 
-## ANGUSH 6':'
+## ANGUSH 6:
 
 - Ultimo angushi longe do boss e nao da soak nos ADDS
 - ZERGA O BOSS E TORCE PRA TER DANO
