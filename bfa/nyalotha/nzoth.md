@@ -17,7 +17,7 @@
 - Mata os tentaculos e desvia dos sangues quando eles morrerem
 - Espalha para o paranóia e se vc for linkado com o healer, vc vai até ele
 
-## <a href="psychus-1"></a> Psychus 1
+## Psychus 1
 
 - Rota: ![Mapa Psychus 1](https://github.com/yuripiratello/wow-raid-plan/raw/master/bfa/nyalotha/img/mythic_psychus_1.png "Psychus mapa 1")
 - Interrompe o add grande
@@ -25,7 +25,7 @@
 - Cait do psychus quando o tank tiver 7 stacks
 - Avisa quando o grupo for sair pra não matar o tentáculo e soltar poça vermelha no chão
 
-## <a href="outside-1"></a> Grupo de Fora 1
+## Grupo de Fora 1
 
 - Mata os tentaculos
 - Mata os adds pequenos (cuidado com as explosoes deles)
@@ -44,11 +44,11 @@ Antes do Psychus 2, um Warlock (que estará no grupo do Psychus 2) precisa coloc
 
 - Quando entrar, pega portal do lock
 - Rota: ![Mapa Psychus 2](https://github.com/yuripiratello/wow-raid-plan/raw/master/bfa/nyalotha/img/mythic_psychus_2.png "Psychus mapa 2")
-- Prioridades igual o grupo [PSYCHUS 1](#psychus-1)
+- Prioridades igual o grupo *PSYCHUS 1*
 
 ## Grupo de Fora 2
 
-- Igual [GRUPO DE FORA 1](#outside-1)
+- Igual *GRUPO DE FORA 1*
 
 ## Após os 2 Psychus
 
