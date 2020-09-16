@@ -107,8 +107,6 @@ NÃO PODE DESCER O BOSS PRA 25%, PARAR NO MAXIMO ATÉ 26% ATÉ APARECER A SALA S
 *ATENÇÃO*
 TEM QUE DESCER JUNTO SENAO STARTA A SALA ANTES E AS PRIMEIRAS BOMBAS ESTOURAM RÁPIDO!
 
-===
-
 ## SALA SECRETA
 
 - Desabilitar as duas bombas mais perto e stacka na parede pro HIT da bomba que não desabilitou (HEAL PESADO) e desvia das chuvas (igual shadar) andando perto das paredes de preferencia
@@ -130,8 +128,6 @@ TEM QUE DESCER JUNTO SENAO STARTA A SALA ANTES E AS PRIMEIRAS BOMBAS ESTOURAM R�
 QUANDO SAIR DA SALA SEGURA O W: pra aproximar do BOSS enquanto está na cena do portal
 
 FIM SALA SECRETA
-
-===
 
 ## FINAL
 
