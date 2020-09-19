@@ -34,7 +34,7 @@
 - Outros tentaculos e adds
 
 E para de bater no boss se o dano estiver alto(?)
-Usa um neck no final da fase vunerável do boss
+Usa um neck no final da fase vulnerável do boss
 
 Repete o começo da luta:
 
@@ -142,7 +142,7 @@ FIM SALA SECRETA
 
 ## IMUNE 3:
 
-- Seta os 5 ultimos soaks com imunity pros adds e NAO BATE NELES
+- Seta os 5 últimos soaks com imunity pros adds e NAO BATE NELES
 
 ## ANGUISH 5:
 
