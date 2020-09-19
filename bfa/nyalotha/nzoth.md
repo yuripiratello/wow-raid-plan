@@ -8,21 +8,21 @@
 - precisa setar grupos de imune
 - precisa setar CDs de heal
 - precisa setar stun nos adds dos grupos que estão fora
-- precisa setar orde dos necks dos tanks no angush 2
-- grito do nouxer no angush 3?
+- precisa setar orde dos necks dos tanks no anguish 2
+- grito do nouxer no anguish 3?
 
 ## Começando...
 
 - LUST NO PULL (AQUI OU ASSIM QUE TERMINA O SEGUNDO PSYCHO?)
-- Mata os tentaculos e desvia dos sangues quando eles morrerem
-- Espalha para o paranóia e se vc for linkado com o healer, vc vai até ele
+- Mata os tentáculos e desvia dos sangues quando eles morrerem
+- Espalha para o paranóia e se vc for linkado com o healer, você vai até ele
 
 ## Psychus 1
 
 - Rota: ![Mapa Psychus 1](https://github.com/yuripiratello/wow-raid-plan/raw/master/bfa/nyalotha/img/mythic_psychus_1.png "Psychus mapa 1")
 - Interrompe o add grande
 - Desvia do fogo
-- Cait do psychus quando o tank tiver 7 stacks
+- Kite do psychus quando o tank tiver 7 stacks
 - Avisa quando o grupo for sair pra não matar o tentáculo e soltar poça vermelha no chão
 
 ## Grupo de Fora 1
@@ -34,7 +34,7 @@
 - Outros tentaculos e adds
 
 E para de bater no boss se o dano estiver alto(?)
-Usa um neck no final da fase funerável do boss
+Usa um neck no final da fase vulnerável do boss
 
 Repete o começo da luta:
 
@@ -56,38 +56,38 @@ Antes do Psychus 2, um Warlock (que estará no grupo do Psychus 2) precisa coloc
 - Antes dos adds nascerem usar 2 necks
 - Soak do cast dos adds
 - Depois do cast usar +2 necks
-- Assim que terminar o neck, 2 healers vão pra trás já se posicionando pro angush
+- Assim que terminar o neck, 2 healers vão pra trás já se posicionando pro anguish
 - *É BOM MATAR OS ADDS ANTES DOS HARVEST (cast dos adds)*
 
-## MAPA DOS ANGUSH
+## MAPA DOS ANGUISH
 
-![Mapa ANGUSH](https://github.com/yuripiratello/wow-raid-plan/raw/master/bfa/nyalotha/img/nzoth_first_p2.png "ANGUSH MAPA")
+![Mapa ANGUISH](https://github.com/yuripiratello/wow-raid-plan/raw/master/bfa/nyalotha/img/nzoth_first_p2.png "ANGUISH MAPA")
 
-## ANGUSH 1:
+## ANGUISH 1:
 
-- Vai pra longe do boss com o angush
+- Vai pra longe do boss com o anguish
 - dropa a poça e usa skill de movimentação pra sair delas e ir pra direita SEM PISAR na poça dos amiguinhos!
 - *OLHA O OLHO DO BOSS (RAIO ULTRA VIOLENTO) PRA NAO TOMAR ELE*
 - Mata os adds
 - HEAL pesado na skill de onda do BOSS
 
-## ANGUSH 2:
+## ANGUISH 2:
 
-- Proximo angush volta pra frente de onde dropou as primeiras poças
+- Proximo anguish volta pra frente de onde dropou as primeiras poças
 - dropa, cd de velocidade, vai pra DIREITA e stacka PROXIMO DO BOSS
 - Vai ter paranoia, não espalha, os tanks vão usar o neck, 1 depois do outro (SETAR ORDEM)
 
 *ANTENÇÃO*
 SE o grasp puxar pra PERTO, TEM QUE COLOCAR PORTAL DE LOCK pra sair de perto do BOSS ANTES DO GRASP
 
-## ANGUSH 3: E IMUNES 1:
+## ANGUISH 3: E IMUNES 1:
 
 - Dropa o terceiro anguish no melee do boss
 - vai pra direita e seta os primeiro 5 imunes pro SOAK
 
-## ANGUSH 4:
+## ANGUISH 4:
 
-- Depois solta o quarto angushi pra trás do terceiro
+- Depois solta o quarto anguish pra trás do terceiro
 
 *ATENÇÃO*
 RAIO DOS OLHOS (RAIO ULTRA VIOLENTO)
@@ -138,18 +138,18 @@ FIM SALA SECRETA
 
 ### VERSAO COM POUCO DPS:
 
-![MAPA DO ANGUSH PÓS SALA SECRETA](https://github.com/yuripiratello/wow-raid-plan/raw/master/bfa/nyalotha/img/nzoth_second_p2.png "ANGUSH MAPA PÓS SALA SECRETA")
+![MAPA DO ANGUISH PÓS SALA SECRETA](https://github.com/yuripiratello/wow-raid-plan/raw/master/bfa/nyalotha/img/nzoth_second_p2.png "ANGUISH MAPA PÓS SALA SECRETA")
 
 ## IMUNE 3:
 
-- Seta os 5 ultimios soaks com imunity pros adds e NAO BATE NELES
+- Seta os 5 últimos soaks com imunity pros adds e NAO BATE NELES
 
-## ANGUSH 5:
+## ANGUISH 5:
 
-- Faz o angushi no melee range e vai pra direita!
+- Faz o anguish no melee range e vai pra direita!
 - BL E CUIDADO COM OS OLHOS!!!!!!!
 
-## ANGUSH 6:
+## ANGUISH 6:
 
-- Ultimo angushi longe do boss e nao da soak nos ADDS
+- Ultimo anguish longe do boss e nao da soak nos ADDS
 - ZERGA O BOSS E TORCE PRA TER DANO
