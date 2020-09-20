@@ -206,34 +206,39 @@ O que devo fazer na luta:
 
 {p:Beetroll}
 - Usar o neck durante stack após primeiro mindgate (2:45)
+- Durante Mindgrasp #2 - Usar Trap no Neuron #6
 - Dar soak no Harvester #2 (7:35)
 - Dar soak no Harvester #4 (10:40)
 {/p}
 
 {p:Byeboy}
-- Desarmar a bomba #2 posição 2 durante câmara secreta
+- Durante Mindgrasp #2 - Usar Trap/Intim no Neuron #2 e #3
 - Dar soak no Harvester #2 (7:35)
+- Desarmar a bomba #2 posição 2 durante câmara secreta
 - Dar soak no Harvester #4 (10:40)
 {/p}
 
 {p:Moryà}
 - Interromper o psychus durante mindgate (posição 4)
-- Desarmar a bomba #1 posição 2 durante câmara secreta
+- Durante Mindgrasp #2 - Usar Trap/Intim no Neuron #4 e #5
 - Dar soak no Harvester #2 (7:35)
+- Desarmar a bomba #1 posição 2 durante câmara secreta
 - Dar soak no Harvester #4 (10:40)
 {/p}
 
 {p:Cowhunt}
+- Durante Mindgrasp #1 - Usar Trap/Intim no Neuron #6 e #7
 - Interromper o psychus durante mindgate (posição 2)
-- Desarmar a bomba #2 posição 3 durante câmara secreta
 - Dar soak no Harvester #2 (7:35)
+- Desarmar a bomba #2 posição 3 durante câmara secreta
 - Dar soak no Harvester #4 (10:40)
 {/p}
 
 {p:Nicolasteiji}
 - Interromper o psychus durante mindgate (posição 3)
-- Desarmar a bomba #2 posição 2 durante câmara secreta
+- Durante Mindgrasp #2 - Usar Trap/Intim no Neuron #8 e #9
 - Dar soak no Harvester #2 (7:35)
+- Desarmar a bomba #2 posição 2 durante câmara secreta
 - Dar soak no Harvester #4 (10:40)
 {/p}
 
@@ -257,10 +262,12 @@ O que devo fazer na luta:
 {/p}
 
 {p:Wadewalker}
+- Durante Mindgrasp #1 - Usar Banish/Fear no Neuron #1 e #10
 - Desarmar a bomba #4 posição 1 durante câmara secreta
 {/p}
 
 {p:Losted}
+- Durante Mindgrasp #1 - Usar Banish/Fear no Neuron #8 e #9
 - Desarmar a bomba #4 posição 2 durante câmara secreta
 {/p}
 
@@ -274,11 +281,13 @@ O que devo fazer na luta:
 {/p}
 
 {p:Baydu}
+- Durante Mindgrasp #1 - Usar Para no Neuron #5
 - Interromper o psychus durante mindgate (posição 1)
 - Usar o neck durante stack ANTES paranoia #5 (7:00)
 {/p}
 
 {p:Warlocknight}
+- Durante Mindgrasp #1 - Usar Banish/Fear no Neuron #3 e #4
 - Usar o neck durante stack ANTES do paranoia #5 (7:00)
 {/p}
 
