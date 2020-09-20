@@ -153,3 +153,176 @@ FIM SALA SECRETA
 
 - Ultimo anguish longe do boss e nao da soak nos ADDS
 - ZERGA O BOSS E TORCE PRA TER DANO
+
+# Exorsus - Note
+
+```text
+{p:Daelidra,Nouxer,Nicolasteiji,Moryà,Fudenciø}
+Interrupts Mindgate #1
+#1 {Demon Hunter} Daelidra
+#2 {Warrior} Nouxer
+#3 {Hunter} Nicolasteiji
+#4 {Hunter} Moryà
+#5 {Shaman} Fudenciø
+{/p}
+
+{p:Baydu,Cowhunt,Sat,Talendan,Duhallan}
+Interrupts Mindgate #1
+#1 {Monk} Baydu
+#2 {Hunter} Cowhunt
+#3 {Mage} Sat
+#4 {Mage} Talendan
+#5 {Shaman} Duhallan
+{/p}
+
+{p:Moryà,Fudenciø}
+Bomba #1
+#1 {Shaman} Fudenciø
+#2 {Hunter} Moryà
+{/p}
+
+{p:Nouxer,Nicolasteiji,Cowhunt}
+Bomba #2
+#1 {Warrior} Nouxer
+#2 {Hunter} Nicolasteiji
+#3 {Hunter} Cowhunt
+{/p}
+
+{p:Emd,Sat,Byeboy}
+Bomba #3
+#1 {Druid} Emd
+#2 {Hunter} Byeboy
+#3 {Mage} Sat
+{/p}
+
+{p:Wadewalker,Losted,Talendan}
+Bomba #4
+#1 {Warlock} Wadewalker
+#2 {Warlock} Losted
+#3 {Mage} Talendan
+{/p}
+
+O que devo fazer na luta:
+
+{p:Beetroll}
+- Usar o neck durante stack após primeiro mindgate (2:45)
+- Dar soak no Harvester #2 (7:35)
+- Dar soak no Harvester #4 (10:40)
+{/p}
+
+{p:Byeboy}
+- Desarmar a bomba #2 posição 2 durante câmara secreta
+- Dar soak no Harvester #2 (7:35)
+- Dar soak no Harvester #4 (10:40)
+{/p}
+
+{p:Moryà}
+- Interromper o psychus durante mindgate (posição 4)
+- Desarmar a bomba #1 posição 2 durante câmara secreta
+- Dar soak no Harvester #2 (7:35)
+- Dar soak no Harvester #4 (10:40)
+{/p}
+
+{p:Cowhunt}
+- Interromper o psychus durante mindgate (posição 2)
+- Desarmar a bomba #2 posição 3 durante câmara secreta
+- Dar soak no Harvester #2 (7:35)
+- Dar soak no Harvester #4 (10:40)
+{/p}
+
+{p:Nicolasteiji}
+- Interromper o psychus durante mindgate (posição 3)
+- Desarmar a bomba #2 posição 2 durante câmara secreta
+- Dar soak no Harvester #2 (7:35)
+- Dar soak no Harvester #4 (10:40)
+{/p}
+
+{p:Sat}
+- Interromper o psychus durante mindgate (posição 3)
+- Desarmar a bomba #3 posição 3 durante câmara secreta
+{/p}
+
+{p:Talendan}
+- Interromper o psychus durante mindgate (posição 4)
+- Desarmar a bomba #4 posição 3 durante câmara secreta
+{/p}
+
+{p:Emd}
+- Desarmar a bomba #3 posição 1 durante câmara secreta
+{/p}
+
+{p:Fudenciø}
+- Interromper o psychus durante mindgate (posição 5)
+- Desarmar a bomba #1 posição 1 durante câmara secreta
+{/p}
+
+{p:Wadewalker}
+- Desarmar a bomba #4 posição 1 durante câmara secreta
+{/p}
+
+{p:Losted}
+- Desarmar a bomba #4 posição 2 durante câmara secreta
+{/p}
+
+{p:Daelidra}
+- Interromper o psychus durante mindgate (posição 1)
+- Usar o neck durante stack após segundo mindgate (5:45)
+{/p}
+
+{p:Szandra}
+- Usar o neck durante stack após segundo mindgate (5:45)
+{/p}
+
+{p:Baydu}
+- Interromper o psychus durante mindgate (posição 1)
+- Usar o neck durante stack ANTES paranoia #5 (7:00)
+{/p}
+
+{p:Warlocknight}
+- Usar o neck durante stack ANTES do paranoia #5 (7:00)
+{/p}
+
+{p:Kiurem,Ahlin}
+- Usar o neck durante stack APÓS do paranoia #5 (8:00)
+{/p}
+
+{p:Jaquab}
+- Usar o neck durante stack ANTES do paranoia #6 (8:00)
+{/p}
+
+{p:Duhallan}
+- Interromper o psychus durante mindgate (posição 5)
+- Usar o neck durante stack ANTES do paranoia #6 (8:00)
+{/p}
+
+{H}
+CDs de Heal
+
+0:25 Torment #1: {Druid} Kiurem Tranq. | {Priest} Ahlin Hino
+0:55 Torment #2: {Priest} Ahlin Salvation | {Shaman} Duhallan Healing Tide | {Warrior} Rallying
+1:15 Torment #3: {Priest} Jaquab Salvation
+2:05 Torment #4:
+
+3:25 Torment #5: {Priest} Jaquab Hino
+3:50 Torment #6: {Priest} Ahlin Hino | {Shaman} Healing Tide
+4:15 Torment #7: {Druid} Kiurem Tranq.
+5:05 Torment #8:
+
+6:15 Primeiros adds: {Shaman} Duhallan Link
+6:30 Anguish #1: {Priest} Jaquab Hino
+6:50 Anguish #2: {Priest} Ahlin Salvation | {Shaman} Duhallan Healing Tide | {Warrior} Rallying
+7:25 Anguish #3: {Priest} Jaquab Salvation
+7:45 Anguish #4: {Priest} Ahlin Hino
+
+9:13 Bomba #1: {Druid} Kiurem Tranq.
+9:29 Bomba #2:
+9:53 Bomba #3: {Shaman} Duhallan Link
+10:20 Bomba #4: {Priest} Jaquab Hino
+
+10:30 RAID SOAK
+10:50 Anguish #5: {Shaman} Duhallan Healing Tide | {Warrior} Rallying
+11:10 Anguish #6: {Priest} Ahlin Hino
+11:45 Anguish #7: {Priest} Ahlin Salvation
+12:05 Anguish #8: {Druid} Kiurem Tranq. | {Priest} Jaquab Salvation (Se tiver)
+{/H}
+```
